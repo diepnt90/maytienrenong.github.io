@@ -60,6 +60,7 @@
     /* border: chartreuse solid 2px; */
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .box__content{
@@ -87,6 +88,7 @@
     /* border: yellow solid 1px; */
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 .footer__box{
     width: 25%;
